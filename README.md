@@ -24,4 +24,14 @@ administrator:
    email: `admin@admin.com`
    password: `admin`
 
-User create an account
+User create an account or use
+    email: `user1@user.com`
+    password: `user`
+    
+# How to use
+1. login as administrator (librarian)
+1. upload books for users to read. preferably pdf.
+1. logut and login as user
+1. search for books ad read any one. you can share books to your contacts from there
+1. Search for friends using the `find contact` add contact.
+1. You need to be accepted to be able to share books with the contact.
