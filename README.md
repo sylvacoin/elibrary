@@ -9,6 +9,10 @@ type of book based on a specific set of rules indicated in the dictionary by the
 1. QRcode login system for students and admin
 1. Ability for students to share books and mark books as favorites.
 1. Ability to add friends
+
+# Requirements
+1. PHP 7.0 or greater
+1. Latest Chrome or firefox browser.
     
 # How to install
 1. In your local server visit loaclhost/phpmyadmin
